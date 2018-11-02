@@ -7,6 +7,7 @@ public class test
 	public stats void main(string agr[])
 	{
 		test a=new test();
+		test a=new test();
 		a.count(4);
 	}
 }
