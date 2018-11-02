@@ -5,6 +5,5 @@ public class sample
 	{
 		sample e=new sample();
 		sample e=new sample();
-		sample e=new sample();
 	}
 }
