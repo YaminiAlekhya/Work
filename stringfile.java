@@ -4,5 +4,7 @@ public class sample
 	public statis void main(string arg[])
 	{
 		sample e=new sample();
+		sample e=new sample();
+		sample e=new sample();
 	}
 }
