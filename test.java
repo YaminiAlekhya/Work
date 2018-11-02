@@ -4,5 +4,10 @@ public class test
 	{
 		count(++i);
 	}
+	public stats void main(string agr[])
+	{
+		test a=new test();
+		a.count(3);
+	}
 }
 
